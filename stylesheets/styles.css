@@ -2,7 +2,9 @@ body {
   background-color: rgb(47, 79, 79);
   font-size: 20px;
 }
-
+a {
+  text-decoration: none;
+}
 .thumbnail-title{
   background: rgb(96, 125, 139);
   color: rgb(202, 238, 255);
