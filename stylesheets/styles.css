@@ -18,6 +18,7 @@ a {
 }
 
 .thumbnail-image {
+  display: block;
   width: 100%;
 }
 
