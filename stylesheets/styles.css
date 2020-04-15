@@ -9,10 +9,11 @@ a {
 
 @font-face {
   font-family: 'source_sans_pro';
-  src: url('Source_Sans_Pro/Source_Sans_Pro-Regular.eot');
-  src: url('Source_Sans_Pro/Source_Sans_Pro-Regular.woff') format('woff'),
+  src: url('Source_Sans_Pro/Source_Sans_Pro-Regular.ttf');
+/*  src: url('Source_Sans_Pro/Source_Sans_Pro-Regular.woff') format('woff'),
        url('Source_Sans_Pro/Source_Sans_Pro-Regular.otf') format('opentype'),
        url('Source_Sans_Pro/Source_Sans_Pro-Regular.svg#source_sans_pro') format('svg');
+*/
 }
 
 .logo-text {
