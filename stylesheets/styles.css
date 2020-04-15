@@ -24,6 +24,7 @@ a {
 
 .thumbnail-image {
   display: block;
+  list-style: none;
   width: 100%;
 }
 
