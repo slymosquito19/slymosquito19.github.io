@@ -13,7 +13,7 @@ a {
   src: url('sans_pro/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('sans_pro/sourcesanspro-regular-webfont.woff') format('woff'),
        url('sans_pro/sourcesanspro-regular-webfont.ttf') format('truetype'),
-       url('sans_pro/sourcesanspro-regular-webfont.svg#source_sans_pro') format('svg');
+       url('sans_pro/sourcesanspro-regular-webfont.svg#sans_pro') format('svg');
 
 }
 
