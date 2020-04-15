@@ -7,9 +7,18 @@ a {
   text-decoration: none;
 }
 
+@font-face {
+  font-family: 'source_sans_pro';
+  src: url('Source_Sans_Pro/Source_Sans_Pro-Regular.eot');
+  src: url('Source_Sans_Pro/Source_Sans_Pro-Regular.woff') format('woff'),
+       url('Source_Sans_Pro/Source_Sans_Pro-Regular.otf') format('opentype'),
+       url('Source_Sans_Pro/Source_Sans_Pro-Regular.svg#source_sans_pro') format('svg');
+}
+
 .logo-text {
   background: rgb(119, 136, 153);
 
+  font-family: source_sans_pro;
   font-size: 40px;
   text-align: center;
   text-transform: uppercase;
