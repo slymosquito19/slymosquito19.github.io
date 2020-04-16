@@ -23,7 +23,6 @@ a {
   font-family: sans_pro;
   font-size: 40px;
   text-align: center;
-  text-transform: uppercase;
 }
 
 .thumbnail-item + .thumbnail-item {
