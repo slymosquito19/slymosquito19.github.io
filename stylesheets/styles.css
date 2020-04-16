@@ -9,13 +9,12 @@ a {
 
 @font-face {
   font-family: 'sans_pro';
-  src: url('sans_pro/sourcesanspro-regular-webfont.ttf');
-  src: url('sans_pro/sourcesanspro-regular-webfont.ttf') format('truetype');
-/*  src: url('sans_pro/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+  src: url('sans_pro/sourcesanspro-regular-webfont.eot');
+  src: url('sans_pro/sourcesanspro-regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('sans_pro/sourcesanspro-regular-webfont.woff') format('woff'),
        url('sans_pro/sourcesanspro-regular-webfont.ttf') format('truetype'),
        url('sans_pro/sourcesanspro-regular-webfont.svg#sans_pro') format('svg');
-*/
+
 }
 
 .logo-text {
