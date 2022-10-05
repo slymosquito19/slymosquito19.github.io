@@ -1,4 +1,7 @@
-# slymosquito19.github.io
-Project Website
+# Technical Portfolio
 
-I wanted to showcase all the stuff I've made and worked on over the years, and figured a website would be a good way to do so!
+This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
+
+See the quick start guide for instructions on how to tailor the template to your own needs.
+
+
